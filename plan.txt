@@ -1,0 +1,133 @@
+🟢 Kolay Seviye (Temel Mantık ve Sözdizimi)
+Bu projeler; döngüler, koşullu ifadeler, fonksiyonlar ve temel veri tiplerini pekiştirmek içindir.
+
+Sayı Tahmin Oyunu: Bilgisayarın tuttuğu sayıyı bulma.
+
+Basit Hesap Makinesi: Dört işlem yapan terminal uygulaması.
+
+Zar Atma Simülatörü: Rastgele sayı üretimi kullanımı.
+
+Kelime Sayacı: Girilen metindeki kelime sayısını hesaplama.
+
+Şifre Oluşturucu: Rastgele karakterlerden güvenli şifre üretme.
+
+Vücut Kitle İndeksi (VKI) Hesaplayıcı: Kullanıcı verileriyle analiz.
+
+Taş-Kağıt-Makas Oyunu: Klasik oyun mantığı.
+
+Birim Dönüştürücü: (Km -> Mil, Celsius -> Fahrenheit vb.)
+
+Geri Sayım Sayacı: time kütüphanesi ile kronometre.
+
+Alışveriş Listesi: Listeye ekleme, çıkarma ve görüntüleme.
+
+Adam Asmaca (Hangman): Kelime tahmin oyunu.
+
+Basit Günlük Uygulaması: Metin dosyasına (.txt) not yazma.
+
+Faktöriyel Hesaplama: Özyineleme (recursion) veya döngü pratiği.
+
+Email Dilimleyici: Email adresinden kullanıcı adı ve domaini ayırma.
+
+Mad Libs: Metin içindeki boşlukları doldurma oyunu.
+
+Palindrom Kontrolü: Tersten okunuşu aynı olan kelimeleri bulma.
+
+QR Kod Oluşturucu: Bir kütüphane kullanarak URL'yi QR koda dönüştürme.
+
+Basit Anket Uygulaması: Kullanıcıdan yanıt alıp sonuçları gösterme.
+
+Dosya Uzantısı Değiştirici: Belirli klasördeki dosyaların adını toplu değiştirme.
+
+Burç Yorumlayıcı: Doğum tarihine göre burç bulan algoritma.
+
+---
+
+
+🟡 Orta Seviye (Kütüphaneler ve API Kullanımı)
+Bu projeler; JSON, harici API'lar, GUI (Arayüz) ve dosya yönetimi konularına odaklanır.
+
+Hava Durumu Uygulaması: OpenWeather API kullanarak veri çekme.
+
+To-Do List (GUI): Tkinter veya PyQt ile görsel arayüzlü yapılacaklar listesi.
+
+Döviz Dönüştürücü: Güncel kurları API üzerinden çekip hesaplama.
+
+Web Scraper (Haber Çekici): BeautifulSoup ile bir haber sitesinden başlık toplama.
+
+YouTube Video İndirici: pytube kütüphanesi ile video indirme aracı.
+
+Masaüstü Hatırlatıcı: Belirli aralıklarla ekrana bildirim gönderen araç.
+
+URL Kısaltıcı: Bitly API veya benzeri bir mantıkla çalışan uygulama.
+
+Müzik Çalar: Pygame kütüphanesi ile basit MP3 oynatıcı.
+
+Kişisel Finans Takipçisi: Gelir-gider verilerini CSV dosyasına kaydetme.
+
+Quiz Uygulaması: JSON dosyasından soruları çeken arayüzlü yarışma.
+
+Instagram Botu: Otomatik takip veya beğeni yapabilen (Selenium ile) bot.
+
+PDF Birleştirici/Bölücü: Çoklu PDF dosyalarını yönetme aracı.
+
+Görüntü İşleme (Filtreleme): OpenCV ile resimleri siyah-beyaz yapma veya kenar bulma.
+
+Discord/Telegram Botu: Basit komutlara yanıt veren bir bot.
+
+Adres Defteri (SQLite): Veritabanı kullanarak kişi kaydetme/arama.
+
+Şifreli Mesajlaşma: Metinleri belirli bir algoritmayla (AES vb.) şifreleme.
+
+Sistem İzleyici: CPU ve RAM kullanımını anlık gösteren panel.
+
+Markdown Editor: Yazılanları HTML'e dönüştüren bir editör.
+
+Otomatik E-posta Gönderici: smtplib ile toplu veya zamanlı mail gönderimi.
+
+Wikipedia Arama Motoru: API üzerinden özet bilgi getiren terminal aracı.
+
+---
+
+🔴 Zor Seviye (Veritabanı, Web ve Algoritma)
+Bu projeler; tam kapsamlı web uygulamaları, veri bilimi giriş veya karmaşık algoritmalar içerir.
+
+E-Ticaret Sitesi (Django/Flask): Sepet mantığı olan bir web sitesi.
+
+Yüz Tanıma Sistemi: OpenCV ve deep learning kütüphaneleri ile anlık tanıma.
+
+Borsa Takip ve Tahmin: Geçmiş verileri çekip basit grafikler oluşturma.
+
+Chat Odası (Socket Programming): Birden fazla kişinin aynı anda yazışabildiği sunucu.
+
+Blog Sistemi: Üyelik, yorum yapma ve yazı paylaşma özellikleri olan web sitesi.
+
+Satranç Oyunu: AI (Yapay Zeka) destekli veya iki kişilik satranç.
+
+Yol Bulma Algoritması Görselleştirici: A* veya Dijkstra algoritmasını görselleştirme.
+
+Blockchain Simülasyonu: Basit bir zincir yapısı ve madencilik mantığı oluşturma.
+
+Kendi Terminalini Yazma: Özel komutları olan bir kabuk (shell) uygulaması.
+
+Veri Analizi Paneli: Pandas ve Matplotlib ile büyük bir veri setini (CSV) analiz etme.
+
+Sesli Asistan: Ses komutlarını algılayıp işlem yapan (Siri benzeri) araç.
+
+Otomatik Plaka Tanıma: Videodan araç plakalarını okuma.
+
+Müşteri İlişkileri Yönetimi (CRM): Tam kapsamlı veritabanı yönetim sistemi.
+
+Yapay Zeka ile El Yazısı Tanıma: MNIST veri seti kullanarak rakam tanıma.
+
+Dosya Senkronizasyon Aracı: İki klasörü bulut mantığıyla eşitleme.
+
+Web Crawler (Arama Motoru Mantığı): Linkleri takip edip index oluşturan bot.
+
+Multiplayer Snake Oyunu: Ağ üzerinden oynanabilen yılan oyunu.
+
+Sentiment (Duygu) Analizi: Twitter verilerini çekip pozitif/negatif analizi yapma.
+
+Kripto Para Cüzdan İzleyici: Portföy değerini anlık hesaplayan dashboard.
+
+Dockerize Edilmiş API Servisi: Flask/FastAPI ile hazırlanmış, Docker konteynerında çalışan servis.
